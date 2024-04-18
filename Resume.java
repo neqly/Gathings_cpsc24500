@@ -2,7 +2,7 @@
  * Noah Gathings
  * Dr. Fadi Wedyan
  * 3 February 2024
- * This 
+ * This program is a resume.
  */
 public class Resume {
 
